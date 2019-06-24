@@ -7,4 +7,4 @@ With the experiments we conducted, we saw that the DDPG algorithm without noise 
 ![](demo.gif)
 
 ## Experiment Report
-https://github.com/mokeam/DDPG-Humanoid/garba_makinwa_ddpg_humanoid_report.pdf
+https://github.com/mokeam/DDPG-Humanoid/blob/master/garba_makinwa_ddpg_humanoid_report.pdf
